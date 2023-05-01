@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.contactas {
+    background-color: rgb(38, 38, 38);
+    color: whitesmoke;
+
+}
+
+.socialmedia i {
+    padding-left: .6rem;
+}
+
+.phone h6 {
+    padding-left: .5rem;
+}
+
+.carousel .carousel-inner img {
+    width: 100%;
+    height: 40rem;
+    background-size: cover;
+}
+
+/* swiper carosul */
+
+/* swiper carosul */
+.review_image {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTnnviybm7kjNLhYzohJCD_ppHs_tWXdjXQ&usqp=CAU);
+    background-size: cover;
+    height: auto;
+}
+
+.star i {
+    color: yellow;
+}
+
+/* top review */
+.review_content .carousel-item img {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+}
+
+.img_1 {
+    width: 100%;
+    height: 25rem;
+}
+
+.img_3 {
+    width: 100%;
+    height: 100%;
+}
+
+.dare_place {
+    background: url(https://i.natgeofe.com/n/312d29d7-605d-4a42-9976-c970f37f571c/book-of-the-dead-opener_3x4.jpg);
+    background-size: cover;
+    height: auto;
+}
+
+.parent_dare {
+    position: relative;
+}
+
+.parent_dare img {
+    height: 100%;
+    width: 100%;
+}
+
+.parent_dare h2 {
+    color: rgb(213, 237, 246);
+}
+
+.child_dare {
+    position: absolute;
+    bottom: 0;
+    padding-top: 1rem;
+    left: 2.5rem;
+}
+
+/* chose place */
+.chose-place .col-md-3 img {
+    height: 8rem;
+    width: 8rem;
+}
+
+.chose-place {
+    background-image: url(./img/meadow-811339_960_720.jpg);
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chose-place .heading img {
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.chose-place .heading p {
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: whitesmoke;
+    padding: 1rem 0rem;
+}
+
+.posts .text {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem 0 0;
+}
+
+/* chose place */
